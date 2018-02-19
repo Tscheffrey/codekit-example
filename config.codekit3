@@ -46,6 +46,16 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/src\/img\/testbild.jpg": {
+		"ft": 16384,
+		"iS": 1118866,
+		"oA": 0,
+		"oAP": "\/build\/img\/testbild.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 61
+		},
 	"\/src\/index.pug": {
 		"cB": 0,
 		"cOD": 1,
@@ -60,10 +70,10 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/build\/main.js",
+		"oAP": "\/build\/js\/main-min.js",
 		"oF": 2,
 		"sC": 3,
-		"tS": 0
+		"tS": 1
 		},
 	"\/src\/style.scss": {
 		"aP": 0,
@@ -1903,7 +1913,7 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 3,
-		"transpilerStyle": 0
+		"transpilerStyle": 1
 		},
 	"languageDefaultsJSON": {
 		"autoOutputAction": 1,
